@@ -1,0 +1,5 @@
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6.Core\bin\Debug\Task6.Core.dll
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6.Core\bin\Debug\Task6.Core.pdb
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6.Core\obj\Debug\Task6.Core.csprojResolveAssemblyReference.cache
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6.Core\obj\Debug\Task6.Core.dll
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6.Core\obj\Debug\Task6.Core.pdb

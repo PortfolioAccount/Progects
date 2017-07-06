@@ -1,0 +1,12 @@
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\FifthSolution\bin\Debug\FifthSolution.exe.config
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\FifthSolution\bin\Debug\FifthSolution.exe
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\FifthSolution\bin\Debug\FifthSolution.pdb
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\FifthSolution\obj\Debug\FifthSolution.csprojResolveAssemblyReference.cache
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\FifthSolution\obj\Debug\FifthSolution.exe
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\FifthSolution\obj\Debug\FifthSolution.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task7\FifthSolution\bin\Debug\FifthSolution.exe.config
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task7\FifthSolution\obj\Debug\FifthSolution.exe
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task7\FifthSolution\obj\Debug\FifthSolution.pdb
+C:\Users\Amayak\Desktop\BB\C#\task 7 REGULAR EXPRESSIONS\Task7\FifthSolution\bin\Debug\FifthSolution.exe.config
+C:\Users\Amayak\Desktop\BB\C#\task 7 REGULAR EXPRESSIONS\Task7\FifthSolution\obj\Debug\FifthSolution.exe
+C:\Users\Amayak\Desktop\BB\C#\task 7 REGULAR EXPRESSIONS\Task7\FifthSolution\obj\Debug\FifthSolution.pdb

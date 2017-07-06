@@ -1,0 +1,32 @@
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Taska2\2.6\bin\Debug\2.6.exe.config
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Taska2\2.6\bin\Debug\2.6.exe
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Taska2\2.6\bin\Debug\2.6.pdb
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Taska2\2.6\bin\Debug\Taska2.exe
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Taska2\2.6\bin\Debug\Taska2.pdb
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Taska2\2.6\obj\Debug\2.6.csprojResolveAssemblyReference.cache
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Taska2\2.6\obj\Debug\2.6.exe
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Taska2\2.6\obj\Debug\2.6.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.6\bin\Debug\2.6.exe.config
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.6\bin\Debug\2.6.exe
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.6\bin\Debug\2.6.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.6\bin\Debug\Taska2.exe
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.6\bin\Debug\Taska2.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.6\obj\Debug\2.6.csprojResolveAssemblyReference.cache
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.6\obj\Debug\2.6.exe
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.6\obj\Debug\2.6.pdb
+C:\Users\Amayak\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.6\bin\Debug\2.6.exe.config
+C:\Users\Amayak\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.6\obj\Debug\2.6.exe
+C:\Users\Amayak\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.6\obj\Debug\2.6.pdb
+C:\Users\Amayak\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.6\bin\Debug\2.6.exe
+C:\Users\Amayak\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.6\bin\Debug\2.6.pdb
+C:\Users\Amayak\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.6\bin\Debug\Taska2.exe
+C:\Users\Amayak\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.6\bin\Debug\Taska2.pdb
+C:\Users\Amayak\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.6\obj\Debug\2.6.csprojResolveAssemblyReference.cache
+C:\Users\Amayak\Desktop\BB\C#\task 2 OOP BASICS\2.6\bin\Debug\2.6.exe.config
+C:\Users\Amayak\Desktop\BB\C#\task 2 OOP BASICS\2.6\obj\Debug\2.6.exe
+C:\Users\Amayak\Desktop\BB\C#\task 2 OOP BASICS\2.6\obj\Debug\2.6.pdb
+C:\Users\Amayak\Desktop\BB\C#\task 2 OOP BASICS\2.6\bin\Debug\2.6.exe
+C:\Users\Amayak\Desktop\BB\C#\task 2 OOP BASICS\2.6\bin\Debug\2.6.pdb
+C:\Users\Amayak\Desktop\BB\C#\task 2 OOP BASICS\2.6\bin\Debug\Taska2.exe
+C:\Users\Amayak\Desktop\BB\C#\task 2 OOP BASICS\2.6\bin\Debug\Taska2.pdb
+C:\Users\Amayak\Desktop\BB\C#\task 2 OOP BASICS\2.6\obj\Debug\2.6.csprojResolveAssemblyReference.cache

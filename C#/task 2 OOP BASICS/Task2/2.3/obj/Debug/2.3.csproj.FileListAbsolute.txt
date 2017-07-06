@@ -1,0 +1,18 @@
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Taska2\2.3\bin\Debug\2.3.exe.config
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Taska2\2.3\bin\Debug\2.3.exe
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Taska2\2.3\bin\Debug\2.3.pdb
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Taska2\2.3\obj\Debug\2.3.exe
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Taska2\2.3\obj\Debug\2.3.pdb
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Taska2\2.3\obj\Debug\2.3.csprojResolveAssemblyReference.cache
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.3\bin\Debug\2.3.exe.config
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.3\obj\Debug\2.3.exe
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.3\obj\Debug\2.3.pdb
+C:\Users\Amayak\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.3\bin\Debug\2.3.exe.config
+C:\Users\Amayak\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.3\obj\Debug\2.3.exe
+C:\Users\Amayak\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.3\obj\Debug\2.3.pdb
+C:\Users\Amayak\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.3\bin\Debug\2.3.exe
+C:\Users\Amayak\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.3\bin\Debug\2.3.pdb
+C:\Users\Amayak\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\2.3\obj\Debug\2.3.csprojResolveAssemblyReference.cache
+C:\Users\Amayak\Desktop\BB\C#\task 2 OOP BASICS\2.3\bin\Debug\2.3.exe.config
+C:\Users\Amayak\Desktop\BB\C#\task 2 OOP BASICS\2.3\obj\Debug\2.3.exe
+C:\Users\Amayak\Desktop\BB\C#\task 2 OOP BASICS\2.3\obj\Debug\2.3.pdb

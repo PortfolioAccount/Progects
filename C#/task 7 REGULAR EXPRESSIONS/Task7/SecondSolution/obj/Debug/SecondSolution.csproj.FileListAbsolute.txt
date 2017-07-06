@@ -1,0 +1,9 @@
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\SecondSolution\bin\Debug\SecondSolution.exe.config
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\SecondSolution\bin\Debug\SecondSolution.exe
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\SecondSolution\bin\Debug\SecondSolution.pdb
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\SecondSolution\obj\Debug\SecondSolution.csprojResolveAssemblyReference.cache
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\SecondSolution\obj\Debug\SecondSolution.exe
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\SecondSolution\obj\Debug\SecondSolution.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task7\SecondSolution\bin\Debug\SecondSolution.exe.config
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task7\SecondSolution\obj\Debug\SecondSolution.exe
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task7\SecondSolution\obj\Debug\SecondSolution.pdb

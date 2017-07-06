@@ -1,0 +1,10 @@
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task4\4.4\bin\Debug\4.4.exe.config
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task4\4.4\bin\Debug\4.4.exe
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task4\4.4\bin\Debug\4.4.pdb
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task4\4.4\obj\Debug\4.4.exe
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task4\4.4\obj\Debug\4.4.pdb
+C:\Users\Amayak\Desktop\BB\C#\task 4 DELEGATES AND EXTENS\Task4\4.4\bin\Debug\4.4.exe.config
+C:\Users\Amayak\Desktop\BB\C#\task 4 DELEGATES AND EXTENS\Task4\4.4\obj\Debug\4.4.exe
+C:\Users\Amayak\Desktop\BB\C#\task 4 DELEGATES AND EXTENS\Task4\4.4\obj\Debug\4.4.pdb
+C:\Users\Amayak\Desktop\BB\C#\task 4 DELEGATES AND EXTENS\Task4\4.4\bin\Debug\4.4.exe
+C:\Users\Amayak\Desktop\BB\C#\task 4 DELEGATES AND EXTENS\Task4\4.4\bin\Debug\4.4.pdb

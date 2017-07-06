@@ -1,0 +1,6 @@
+c:\users\amayak\documents\visual studio 2015\Projects\Task7\Task7\bin\Debug\Task7.exe.config
+c:\users\amayak\documents\visual studio 2015\Projects\Task7\Task7\bin\Debug\Task7.exe
+c:\users\amayak\documents\visual studio 2015\Projects\Task7\Task7\bin\Debug\Task7.pdb
+c:\users\amayak\documents\visual studio 2015\Projects\Task7\Task7\obj\Debug\First solution.csprojResolveAssemblyReference.cache
+c:\users\amayak\documents\visual studio 2015\Projects\Task7\Task7\obj\Debug\Task7.exe
+c:\users\amayak\documents\visual studio 2015\Projects\Task7\Task7\obj\Debug\Task7.pdb

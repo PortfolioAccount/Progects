@@ -1,0 +1,15 @@
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\ThirdSolution\bin\Debug\ThirdSolution.exe.config
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\ThirdSolution\bin\Debug\ThirdSolution.exe
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\ThirdSolution\bin\Debug\ThirdSolution.pdb
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\ThirdSolution\obj\Debug\ThirdSolution.csprojResolveAssemblyReference.cache
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\ThirdSolution\obj\Debug\ThirdSolution.exe
+c:\Users\Amayak\documents\visual studio 2015\Projects\Task7\ThirdSolution\obj\Debug\ThirdSolution.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task7\ThirdSolution\bin\Debug\ThirdSolution.exe.config
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task7\ThirdSolution\obj\Debug\ThirdSolution.exe
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task7\ThirdSolution\obj\Debug\ThirdSolution.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task7\ThirdSolution\bin\Debug\ThirdSolution.exe
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task7\ThirdSolution\bin\Debug\ThirdSolution.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task7\ThirdSolution\obj\Debug\ThirdSolution.csprojResolveAssemblyReference.cache
+C:\Users\Amayak\Desktop\BB\C#\task 7 REGULAR EXPRESSIONS\Task7\ThirdSolution\bin\Debug\ThirdSolution.exe.config
+C:\Users\Amayak\Desktop\BB\C#\task 7 REGULAR EXPRESSIONS\Task7\ThirdSolution\obj\Debug\ThirdSolution.exe
+C:\Users\Amayak\Desktop\BB\C#\task 7 REGULAR EXPRESSIONS\Task7\ThirdSolution\obj\Debug\ThirdSolution.pdb

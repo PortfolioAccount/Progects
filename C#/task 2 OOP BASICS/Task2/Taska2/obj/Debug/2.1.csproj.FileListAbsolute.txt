@@ -1,0 +1,18 @@
+c:\users\amayak\documents\visual studio 2015\Projects\Taska2\Taska2\bin\Debug\Taska2.exe.config
+c:\users\amayak\documents\visual studio 2015\Projects\Taska2\Taska2\bin\Debug\Taska2.exe
+c:\users\amayak\documents\visual studio 2015\Projects\Taska2\Taska2\bin\Debug\Taska2.pdb
+c:\users\amayak\documents\visual studio 2015\Projects\Taska2\Taska2\obj\Debug\2.1.csprojResolveAssemblyReference.cache
+c:\users\amayak\documents\visual studio 2015\Projects\Taska2\Taska2\obj\Debug\Taska2.exe
+c:\users\amayak\documents\visual studio 2015\Projects\Taska2\Taska2\obj\Debug\Taska2.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Taska2\bin\Debug\Taska2.exe.config
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Taska2\obj\Debug\Taska2.exe
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Taska2\obj\Debug\Taska2.pdb
+C:\Users\Amayak\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Taska2\bin\Debug\Taska2.exe.config
+C:\Users\Amayak\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Taska2\obj\Debug\Taska2.exe
+C:\Users\Amayak\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Taska2\obj\Debug\Taska2.pdb
+C:\Users\Amayak\Desktop\BB\Taska2\bin\Debug\Taska2.exe.config
+C:\Users\Amayak\Desktop\BB\Taska2\obj\Debug\Taska2.exe
+C:\Users\Amayak\Desktop\BB\Taska2\obj\Debug\Taska2.pdb
+C:\Users\Amayak\Desktop\BB\C#\task 2 OOP BASICS\Taska2\bin\Debug\Taska2.exe.config
+C:\Users\Amayak\Desktop\BB\C#\task 2 OOP BASICS\Taska2\obj\Debug\Taska2.exe
+C:\Users\Amayak\Desktop\BB\C#\task 2 OOP BASICS\Taska2\obj\Debug\Taska2.pdb

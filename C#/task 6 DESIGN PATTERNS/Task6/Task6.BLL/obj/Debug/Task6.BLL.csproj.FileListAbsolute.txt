@@ -1,0 +1,18 @@
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6.BLL\bin\Debug\Task6.BLL.dll
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6.BLL\bin\Debug\Task6.BLL.pdb
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6.BLL\bin\Debug\Task6.Core.dll
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6.BLL\bin\Debug\Task6.DAL.dll
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6.BLL\bin\Debug\Task6.Core.pdb
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6.BLL\bin\Debug\Task6.DAL.pdb
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6.BLL\obj\Debug\Task6.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6.BLL\obj\Debug\Task6.BLL.dll
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6.BLL\obj\Debug\Task6.BLL.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6.BLL\bin\Debug\Task6.BLL.dll
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6.BLL\bin\Debug\Task6.BLL.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6.BLL\bin\Debug\Task6.Core.dll
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6.BLL\bin\Debug\Task6.DAL.dll
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6.BLL\bin\Debug\Task6.Core.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6.BLL\bin\Debug\Task6.DAL.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6.BLL\obj\Debug\Task6.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6.BLL\obj\Debug\Task6.BLL.dll
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6.BLL\obj\Debug\Task6.BLL.pdb

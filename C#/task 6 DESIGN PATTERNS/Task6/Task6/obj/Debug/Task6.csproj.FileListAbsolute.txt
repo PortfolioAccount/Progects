@@ -1,0 +1,27 @@
+c:\users\amayak\documents\visual studio 2015\Projects\Task6\Task6\bin\Debug\Task6.exe.config
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6\bin\Debug\Task6.exe
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6\bin\Debug\Task6.pdb
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6\bin\Debug\Task6.BLL.dll
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6\bin\Debug\Task6.Core.dll
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6\bin\Debug\Task6.DAL.dll
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6\bin\Debug\Task6.BLL.pdb
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6\bin\Debug\Task6.Core.pdb
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6\bin\Debug\Task6.DAL.pdb
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6\obj\Debug\Task6.csprojResolveAssemblyReference.cache
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6\obj\Debug\Task6.exe
+C:\Users\Amayak\Documents\Visual Studio 2015\Projects\Task6\Task6\obj\Debug\Task6.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6\bin\Debug\Task6.exe.config
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6\obj\Debug\Task6.exe
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6\obj\Debug\Task6.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6\bin\Debug\Task6.exe
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6\bin\Debug\Task6.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6\bin\Debug\Task6.BLL.dll
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6\bin\Debug\Task6.Core.dll
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6\bin\Debug\Task6.DAL.dll
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6\bin\Debug\Task6.BLL.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6\bin\Debug\Task6.Core.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6\bin\Debug\Task6.DAL.pdb
+C:\Users\Nariman\Dropbox\Epam - Амаяк\Задания на просмотр и проверку\Task6\Task6\obj\Debug\Task6.csprojResolveAssemblyReference.cache
+C:\Users\Amayak\Desktop\BB\C#\task 6 DESIGN PATTERNS\Task6\Task6\bin\Debug\Task6.exe.config
+C:\Users\Amayak\Desktop\BB\C#\task 6 DESIGN PATTERNS\Task6\Task6\obj\Debug\Task6.exe
+C:\Users\Amayak\Desktop\BB\C#\task 6 DESIGN PATTERNS\Task6\Task6\obj\Debug\Task6.pdb
