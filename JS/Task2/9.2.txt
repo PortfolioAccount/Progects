@@ -1,0 +1,42 @@
+const string = "10 * 2 - 12 / 2 *45 - 3 + 2 - 45 + 6.5 +2 / 2.5 * 2.1=";
+let result = 0
+  resultFin = 0,
+  const1 = 0,
+  const2 = '';
+  
+function expr(A, O) {
+  var D = A.replace(/\(|\)/g, "").split(O);
+  if ( O == "+" ) return +D[0] + +D[1];
+  if ( O == "-" ) return D[0] - D[1];
+  if ( O == "*" ) return D[0] * D[1];
+  if ( O == "/" ) return D[0] / D[1];
+  if ( O == "^" ) return Math.pow(D[0], D[1]);
+}
+
+
+let stringToArray = string.split(/(\d+\.\d+|\d+)/g);
+stringToArray.forEach(function(item) {
+  if (item) { 
+    let thisItem = item.trim();
+    if (thisItem == '=') {
+      resultFin = result;
+    }
+    if (const1) {
+      if (const2) {
+        result = expr(const1+const2+item, const2);
+        const1 = result;
+        const2 = '';
+      } else {
+        const2 = thisItem;
+      }
+    } else {
+      const1 = thisItem;
+    }
+  }
+});
+
+if (result && !resultFin) {
+  resultFin = result;
+}
+
+console.log(resultFin);

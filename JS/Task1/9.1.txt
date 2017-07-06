@@ -1,0 +1,26 @@
+var text = "У попа была собака";
+ 
+text = text.toLowerCase();
+
+var massive = text.split(' ');
+var rezult = text.split('');
+(function (mas) {
+    for ( var word = 0; word < mas.length; word++) {
+      var ms = mas[word].split('');
+      for ( var wordFirstChar = 0; wordFirstChar < ms.length; wordFirstChar++) {
+        for ( var wordNextChar = 0; wordNextChar < ms.length; wordNextChar++) {
+          if ( wordFirstChar != wordNextChar) {
+            if (ms[wordFirstChar] == ms[wordNextChar]) {
+             for ( var finishChar = 0; finishChar < rezult.length; finishChar++) {
+               if (ms[wordNextChar] == rezult[finishChar])
+               rezult.splice(finishChar,1)
+             }
+            }
+          }
+        }
+      }
+    }
+rezult = rezult.toString();
+rezult = rezult.replace(/,/g,'');
+console.log(rezult);
+})(massive);
