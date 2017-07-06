@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Employee nomer="a111aa">
+    <mark>мазда</mark>
+    <col>белый</col>
+    <vl>Ястребов</vl>
+  </Employee>
+  <Employee nomer="б222бб">
+    <mark>жигули</mark>
+    <col>заленый</col>
+    <vl>Петров</vl>
+  </Employee>
+  <Employee nomer="о123оо">
+    <mark>БМВ</mark>
+    <col>черный</col>
+    <vl>Петров</vl>
+  </Employee>
+</root>

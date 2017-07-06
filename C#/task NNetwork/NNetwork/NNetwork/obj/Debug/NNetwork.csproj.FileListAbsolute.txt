@@ -1,0 +1,18 @@
+c:\users\vadim\documents\visual studio 2015\Projects\NNetwork\NNetwork\bin\Debug\NNetwork.exe.config
+c:\users\vadim\documents\visual studio 2015\Projects\NNetwork\NNetwork\bin\Debug\NNetwork.exe
+c:\users\vadim\documents\visual studio 2015\Projects\NNetwork\NNetwork\bin\Debug\NNetwork.pdb
+c:\users\vadim\documents\visual studio 2015\Projects\NNetwork\NNetwork\obj\Debug\NNetwork.csprojResolveAssemblyReference.cache
+c:\users\vadim\documents\visual studio 2015\Projects\NNetwork\NNetwork\obj\Debug\NNetwork.Form1.resources
+c:\users\vadim\documents\visual studio 2015\Projects\NNetwork\NNetwork\obj\Debug\NNetwork.Properties.Resources.resources
+c:\users\vadim\documents\visual studio 2015\Projects\NNetwork\NNetwork\obj\Debug\NNetwork.csproj.GenerateResource.Cache
+c:\users\vadim\documents\visual studio 2015\Projects\NNetwork\NNetwork\obj\Debug\NNetwork.exe
+c:\users\vadim\documents\visual studio 2015\Projects\NNetwork\NNetwork\obj\Debug\NNetwork.pdb
+D:\учеба\Projects\NNetwork\NNetwork\bin\Debug\NNetwork.exe.config
+D:\учеба\Projects\NNetwork\NNetwork\obj\Debug\NNetwork.exe
+D:\учеба\Projects\NNetwork\NNetwork\obj\Debug\NNetwork.pdb
+D:\учеба\Projects\NNetwork\NNetwork\bin\Debug\NNetwork.exe
+D:\учеба\Projects\NNetwork\NNetwork\bin\Debug\NNetwork.pdb
+D:\учеба\Projects\NNetwork\NNetwork\obj\Debug\NNetwork.csprojResolveAssemblyReference.cache
+D:\учеба\Projects\NNetwork\NNetwork\obj\Debug\NNetwork.Form1.resources
+D:\учеба\Projects\NNetwork\NNetwork\obj\Debug\NNetwork.Properties.Resources.resources
+D:\учеба\Projects\NNetwork\NNetwork\obj\Debug\NNetwork.csproj.GenerateResource.Cache

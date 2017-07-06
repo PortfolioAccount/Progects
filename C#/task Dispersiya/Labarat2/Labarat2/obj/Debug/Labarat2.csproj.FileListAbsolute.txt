@@ -1,0 +1,20 @@
+c:\users\vadim\documents\visual studio 2015\Projects\Labarat2\Labarat2\bin\Debug\Labarat2.exe.config
+c:\users\vadim\documents\visual studio 2015\Projects\Labarat2\Labarat2\bin\Debug\Labarat2.exe
+c:\users\vadim\documents\visual studio 2015\Projects\Labarat2\Labarat2\bin\Debug\Labarat2.pdb
+c:\users\vadim\documents\visual studio 2015\Projects\Labarat2\Labarat2\obj\Debug\Labarat2.csprojResolveAssemblyReference.cache
+c:\users\vadim\documents\visual studio 2015\Projects\Labarat2\Labarat2\obj\Debug\Labarat2.Form1.resources
+c:\users\vadim\documents\visual studio 2015\Projects\Labarat2\Labarat2\obj\Debug\Labarat2.Properties.Resources.resources
+c:\users\vadim\documents\visual studio 2015\Projects\Labarat2\Labarat2\obj\Debug\Labarat2.csproj.GenerateResource.Cache
+c:\users\vadim\documents\visual studio 2015\Projects\Labarat2\Labarat2\obj\Debug\Labarat2.exe
+c:\users\vadim\documents\visual studio 2015\Projects\Labarat2\Labarat2\obj\Debug\Labarat2.pdb
+c:\users\vadim\documents\visual studio 2015\Projects\Labarat2\Labarat2\obj\Debug\Labarat2.Form2.resources
+D:\учеба\Projects\Labarat2\Labarat2\bin\Debug\Labarat2.exe.config
+D:\учеба\Projects\Labarat2\Labarat2\obj\Debug\Labarat2.exe
+D:\учеба\Projects\Labarat2\Labarat2\obj\Debug\Labarat2.pdb
+D:\учеба\Projects\Labarat2\Labarat2\bin\Debug\Labarat2.exe
+D:\учеба\Projects\Labarat2\Labarat2\bin\Debug\Labarat2.pdb
+D:\учеба\Projects\Labarat2\Labarat2\obj\Debug\Labarat2.csprojResolveAssemblyReference.cache
+D:\учеба\Projects\Labarat2\Labarat2\obj\Debug\Labarat2.Form1.resources
+D:\учеба\Projects\Labarat2\Labarat2\obj\Debug\Labarat2.Form2.resources
+D:\учеба\Projects\Labarat2\Labarat2\obj\Debug\Labarat2.Properties.Resources.resources
+D:\учеба\Projects\Labarat2\Labarat2\obj\Debug\Labarat2.csproj.GenerateResource.Cache

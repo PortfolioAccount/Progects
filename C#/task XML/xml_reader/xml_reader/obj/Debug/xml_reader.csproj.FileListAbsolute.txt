@@ -1,0 +1,30 @@
+c:\users\юлия\documents\visual studio 2013\Projects\xml_reader\xml_reader\bin\Debug\xml_reader.exe.config
+c:\users\юлия\documents\visual studio 2013\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.csprojResolveAssemblyReference.cache
+c:\users\юлия\documents\visual studio 2013\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.Form1.resources
+c:\users\юлия\documents\visual studio 2013\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.Properties.Resources.resources
+c:\users\юлия\documents\visual studio 2013\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.csproj.GenerateResource.Cache
+c:\users\юлия\documents\visual studio 2013\Projects\xml_reader\xml_reader\bin\Debug\xml_reader.exe
+c:\users\юлия\documents\visual studio 2013\Projects\xml_reader\xml_reader\bin\Debug\xml_reader.pdb
+c:\users\юлия\documents\visual studio 2013\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.exe
+c:\users\юлия\documents\visual studio 2013\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.pdb
+c:\users\юлия\documents\visual studio 2013\Projects\xml_reader\xml_reader\bin\Debug\xmltext.xml
+C:\Users\Vadim\Documents\Visual Studio 2015\Projects\xml_reader\xml_reader\bin\Debug\xml_reader.exe.config
+C:\Users\Vadim\Documents\Visual Studio 2015\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.exe
+C:\Users\Vadim\Documents\Visual Studio 2015\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.pdb
+C:\Users\Vadim\Documents\Visual Studio 2015\Projects\xml_reader\xml_reader\bin\Debug\xmltext.xml
+C:\Users\Vadim\Documents\Visual Studio 2015\Projects\xml_reader\xml_reader\bin\Debug\xml_reader.exe
+C:\Users\Vadim\Documents\Visual Studio 2015\Projects\xml_reader\xml_reader\bin\Debug\xml_reader.pdb
+C:\Users\Vadim\Documents\Visual Studio 2015\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.csprojResolveAssemblyReference.cache
+C:\Users\Vadim\Documents\Visual Studio 2015\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.Form1.resources
+C:\Users\Vadim\Documents\Visual Studio 2015\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.Properties.Resources.resources
+C:\Users\Vadim\Documents\Visual Studio 2015\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.csproj.GenerateResource.Cache
+D:\учеба\Projects\xml_reader\xml_reader\bin\Debug\xml_reader.exe.config
+D:\учеба\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.exe
+D:\учеба\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.pdb
+D:\учеба\Projects\xml_reader\xml_reader\bin\Debug\xmltext.xml
+D:\учеба\Projects\xml_reader\xml_reader\bin\Debug\xml_reader.exe
+D:\учеба\Projects\xml_reader\xml_reader\bin\Debug\xml_reader.pdb
+D:\учеба\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.csprojResolveAssemblyReference.cache
+D:\учеба\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.Form1.resources
+D:\учеба\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.Properties.Resources.resources
+D:\учеба\Projects\xml_reader\xml_reader\obj\Debug\xml_reader.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+c:\users\vadim\documents\visual studio 2015\Projects\game\game\bin\Debug\game.exe.config
+c:\users\vadim\documents\visual studio 2015\Projects\game\game\bin\Debug\game.exe
+c:\users\vadim\documents\visual studio 2015\Projects\game\game\bin\Debug\game.pdb
+c:\users\vadim\documents\visual studio 2015\Projects\game\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+c:\users\vadim\documents\visual studio 2015\Projects\game\game\obj\Debug\game.Form1.resources
+c:\users\vadim\documents\visual studio 2015\Projects\game\game\obj\Debug\game.Properties.Resources.resources
+c:\users\vadim\documents\visual studio 2015\Projects\game\game\obj\Debug\game.csproj.GenerateResource.Cache
+c:\users\vadim\documents\visual studio 2015\Projects\game\game\obj\Debug\game.exe
+c:\users\vadim\documents\visual studio 2015\Projects\game\game\obj\Debug\game.pdb
+D:\учеба\Projects\game\game\bin\Debug\game.exe.config
+D:\учеба\Projects\game\game\obj\Debug\game.exe
+D:\учеба\Projects\game\game\obj\Debug\game.pdb
+D:\учеба\Projects\game\game\bin\Debug\game.exe
+D:\учеба\Projects\game\game\bin\Debug\game.pdb
+D:\учеба\Projects\game\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+D:\учеба\Projects\game\game\obj\Debug\game.Form1.resources
+D:\учеба\Projects\game\game\obj\Debug\game.Properties.Resources.resources
+D:\учеба\Projects\game\game\obj\Debug\game.csproj.GenerateResource.Cache
